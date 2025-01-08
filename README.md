@@ -10,7 +10,8 @@
 </ol>
 Here are my Socials if you are interested
 <P>
-  <button><a href="https://www.instagram.com/gnls_gengar/">Instagram</a></button>
+  <button><a href="https://www.instagram.com/gnls_gengar/">Instagram</a></button><br>
+  <button><a href="https://stackoverflow.com/users/29107694/gengode">Stack Overflow</a></button>
 </P>
 <br>That's about it for now - maybe i'll add a few things later on
-<!-- Nein werde ich wahrscheinlich nicht lol -->
+<!-- Hab ich doch XD -->
