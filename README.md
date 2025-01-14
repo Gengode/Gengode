@@ -6,7 +6,6 @@
   <li>I'm from Germany.</li>
   <li>I taught myself a bit of HTML, and I hope learning other Languages won't be so hard either.</li>
   <li>I am currently training to become an information electronics technician. I am in my second year of training. Once I completed this training, I would like to become a full-stack developer</li>
-  <li>I wanted to use Gengar as my Username because i really like that Pokémon but apparently, someone else already took it :(</li>
 </ol>
 Here are my Socials if you are interested
 <P>
@@ -15,3 +14,8 @@ Here are my Socials if you are interested
 </P>
 <br>That's about it for now - maybe i'll add a few things later on
 <!-- Hab ich doch XD -->
+<!-- 
+# (\_/) ShiftCtrlRun
+# ( •_• )  Keep the code running.
+# />💻>
+-->
